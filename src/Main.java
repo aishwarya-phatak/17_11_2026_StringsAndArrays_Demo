@@ -29,3 +29,10 @@ void main() {
 
     System.out.println("\nsub string method : " + user.substring(2,5));
 }
+
+
+//public class Main{
+//    public static void main(){
+//        System.out.println("Welcome!");
+//    }
+//}
